@@ -1,5 +1,3 @@
-👉👉👉**colab file link :-** https://colab.research.google.com/drive/1mMgfzbky7p11Eur-2GV-ftIJbZRSmIuC#scrollTo=add7b2b5 🎉🎉🙂🙌
-
 
 
 # EDA-on-Titanic-Dataset
